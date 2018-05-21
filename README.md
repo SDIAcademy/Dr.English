@@ -29,8 +29,8 @@ Here is the list of things we will need to do in this two weeks:
     - [Kubernete guide 2](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
 
 ### Goles:
-  - [ ] come up with a basic design for the app
-  - [ ] font-end prototype
+  - [X] come up with a basic design for the app
+  - [X] font-end prototype
+  - [X] login feature (need improve)
   - [ ] link with one database
-  - [ ] login feature
   - [ ] setting up Kubernete
