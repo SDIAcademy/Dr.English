@@ -34,3 +34,4 @@ Here is the list of things we will need to do in this two weeks:
   - [X] login feature (need improve)
   - [X] link with one database
   - [X] setting up Kubernete
+  - [ ] setting up Flutter HTTP request
