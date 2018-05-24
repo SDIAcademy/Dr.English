@@ -32,5 +32,5 @@ Here is the list of things we will need to do in this two weeks:
   - [X] come up with a basic design for the app
   - [X] font-end prototype
   - [X] login feature (need improve)
-  - [ ] link with one database
-  - [ ] setting up Kubernete
+  - [X] link with one database
+  - [X] setting up Kubernete
